@@ -1,4 +1,4 @@
-# Shopping List - Using pytho and SQLite
+# Shopping List - Using python and SQLite
 
 The aim of the program is to allow the user to store and edit a shopping list. The program will then store the data in a database using SQLite.
 
