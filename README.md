@@ -1,6 +1,6 @@
-# Assignment 2 Level 1
+# Shopping List - Using pytho and SQLite
 
-The aim of the program is to allow the user to store and edit a shopping list. The program will then store the data in a database.
+The aim of the program is to allow the user to store and edit a shopping list. The program will then store the data in a database using SQLite.
 
 The program provides a menu where a user can choose which action they want to take: 
 -  Add an item to the shopping list, 
